@@ -1,0 +1,23 @@
+"C:\Program Files\JetBrains\CLion 2024.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2024.2.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\Usuario\Documents\GitHub\excepciones -B C:\Users\Usuario\Documents\GitHub\excepciones\cmake-build-debug
+-- Configuring done (0.2s)
+CMake Error at CMakeLists.txt:9 (add_executable):
+  Cannot find source file:
+
+    ejercicio4/main4.cpp
+
+
+CMake Error at CMakeLists.txt:10 (add_executable):
+  Cannot find source file:
+
+    ejercicio5/main5.cpp
+
+
+CMake Error at CMakeLists.txt:9 (add_executable):
+  No SOURCES given to target: untitled18_ejercicio4
+
+
+CMake Error at CMakeLists.txt:10 (add_executable):
+  No SOURCES given to target: untitled18_ejercicio5
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.
